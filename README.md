@@ -43,7 +43,7 @@ The further you get into this, the richer it is.
   * Learn about discovery of New World and at the same time about range of food words that come from e.g. Aztec Nahuatl langauge ('tomato', 'avocado', 'chilli', 'chocolate'...)
   * Learn about Islamic world and at the same time about all the words that came from there in the Middle Ages - sciencey ones like 'alcohol', 'alkali', 'algorithm', 'zero'; food ones like 'orange', 'saffron', 'spinach', 'sorbet'/'sherbet'...
   * ...and at the same time trace those words back further to their origins - e.g. 'orange' came from a Dravidian language in India then through Persian into Arabic
-    * :nerd_face: **A group can present everything about a word to class!**
+  * :nerd_face: **A group can present everything about a word to class!**
 * ...but most English words are Indo-European, either directly from Old English / Germanic, or via Italic (Latin or French < Latin), or via Greek. There is so much awesomeness to be discovered about all the hidden relationships between English words once you drop down to Indo-European!! 
     * :nerd_face: **Dinosaur/archosaur names: e.g. "pter" in "pterodactyl" is same PIE root that gives "feather" in English and "eitleán" in Irish 🙂**
 * Can learn history not just of languages themselves, but of writing systems used to write them - e.g. the alphabet, and of how it's been used in different places at different times (e.g. Irish was written using a version of Latin where letter 'c' still always represented a /k/ sound)
