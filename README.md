@@ -13,7 +13,7 @@ English orthography does represent the sounds of our speech, though with some ca
 * Starting off at the 'Pirate Pat' level where "p" is always /p/ and "a" is always /a/ and "t" is always /t/ is great. Davy and Cormac both found this totally intuitive.
 * But beyond that, English spelling often works at the level of *groups of letters* representing sounds rather than single letters (e.g. "**th**at", "p**ou**r", "f**i**r**e**")
   * :nerd_face: **Drawing boxes around letter groups, and writing down the corresponding IPA symbol, was really helpful for Davy and especially Cormac!**
-* And one letter combination can map to several sounds (e.g. "row", "row"), and one sound can be represented by several letter combinations (e.g. "night", "bite", "biology")
+* And one letter combination can map to several sounds (e.g. "row", "row"), and one sound can be represented by several letter combinations (e.g. "n***igh***t", "b**i**t**e**", "b**i**ology")
 
 So there's a medium but finite number of sound-spelling combinations - about 200.
 * https://www.sounds-write.co.uk/sites/soundswrite/uploads/files/49-sounds_write_english_spellings_lexicon.pdf
@@ -40,7 +40,7 @@ And! The way words keep their history in their spelling allows you to be a langu
   * :nerd_face: **Songs from Middle Ages - e.g. Sumer is icumen in (it even has farting in it!!)**
     
 The further you get into this, the richer it is.
-* [The History of English podcast] (https://historyofenglishpodcast.com/) is such a great friendly resource for telling this story! 
+* [The History of English podcast](https://historyofenglishpodcast.com/) is such a great friendly resource for telling this story! 
 * English words can come from anywhere in the world as borrowings -
   * Learn about discovery of New World and at the same time about range of food words that come from e.g. Aztec Nahuatl langauge ('tomato', 'avocado', 'chilli', 'chocolate'...)
   * Learn about Islamic world and at the same time about all the words that came from there in the Middle Ages - sciencey ones like 'alcohol', 'alkali', 'algorithm', 'zero'; food ones like 'orange', 'saffron', 'spinach', 'sorbet'/'sherbet'...
