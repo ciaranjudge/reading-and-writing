@@ -6,6 +6,8 @@ Reading and writing are about transcribing sounds of speech.
 Irish English has about 45 contrasting speech sounds (phonemes).
 * The best way to represent these phonemes is with the International Phonetic Alphabet (IPA).
 * Learning the IPA also works for representing the sounds of Irish or any other language!
+* Because our Irish English isn't a big huge English like English English or American English, there's much less in the way of ready-to-go resources for our speech sounds. But it's totally doable!
+* More detail in 'Phonetics and Phonology' below.
 
 English orthography does represent the sounds of our speech, though with some caveats...
 * Starting off at the 'Pirate Pat' level where "p" is always /p/ and "a" is always /a/ and "t" is always /t/ is great. Davy and Cormac both found this totally intuitive.
@@ -19,7 +21,7 @@ So there's a medium but finite number of sound-spelling combinations - about 200
 * It's much better to acknowledge the size of the task rather than to pretend that there's just this once-off 'learn the alphabet' job but then an uncharted ocean of 'English spelling is weird'!
   * :nerd_face: **Build up different ways to spell sounds on walls of classroom over the course of a school year - grouped by IPA symbol. What patterns are there in how different spellings are used to correspond to various sounds?**
 
-And! There are patterns to the weirdness.
+Yes! There are patterns to the weirdness.
 * There are different spelling patterns for words that come from Old English/Old Norse, from French, from Latin and Greek, and from other recent borrowings.
 * Being able to recognise these patterns is incredibly useful.
 * It goes along with learning about the history of words (etymology)
