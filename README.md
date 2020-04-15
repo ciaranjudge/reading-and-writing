@@ -11,7 +11,7 @@ Irish English has about 45 contrasting speech sounds (phonemes).
 
 English orthography does represent the sounds of our speech, though with some caveats...
 * Starting off at the 'Pirate Pat' level where "p" is always /p/ and "a" is always /a/ and "t" is always /t/ is great. Davy and Cormac both found this totally intuitive.
-* But beyond that, English spelling often works at the level of *groups of letters* representing sounds rather than single letters (e.g. "that", "pour", "fire")
+* But beyond that, English spelling often works at the level of *groups of letters* representing sounds rather than single letters (e.g. "**th**at", "p**ou**r", "f**i**r**e**")
   * :nerd_face: **Drawing boxes around letter groups, and writing down the corresponding IPA symbol, was really helpful for Davy and especially Cormac!**
 * And one letter combination can map to several sounds (e.g. "row", "row"), and one sound can be represented by several letter combinations (e.g. "night", "bite", "biology")
 
